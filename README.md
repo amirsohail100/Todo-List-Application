@@ -43,9 +43,7 @@ A clean, minimalist, and practical **To-Do List application** built using **HTML
 
 ### 1. Clone and Enter the Repository
 
-````markdown
-```bash
+```markdown
 git clone [https://github.com/amirsohail100/Todo-List-Application.git](https://github.com/amirsohail100/Todo-List-Application.git)
 cd Todo-List-Application
 ```
-````
