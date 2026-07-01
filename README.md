@@ -34,3 +34,18 @@ A clean, minimalist, and practical **To-Do List application** built using **HTML
 ├── style.css       # Layout designs and checked-off styling
 └── script.js       # DOM injection and list array controls
 ```
+
+---
+
+### 📝 Todo List Application
+
+````markdown
+## 🚀 How to Run Locally
+
+### 1. Clone and Enter the Repository
+
+```bash
+git clone [https://github.com/amirsohail100/Todo-List-Application.git](https://github.com/amirsohail100/Todo-List-Application.git)
+cd Todo-List-Application
+```
+````
