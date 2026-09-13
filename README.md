@@ -23,7 +23,7 @@ A clean, minimalist, and practical **To-Do List application** built using **HTML
 
 ## 📸 Demo
 
-![To-Do List Preview](todo-preview.png)
+![To-Do List Preview](assets/todo-preview.png)
 
 ---
 
